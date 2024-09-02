@@ -40,13 +40,13 @@ Medium Post: https://medium.com/p/336d5728ccf1/
     Move into each folders and start all services using the command 
     
         cd kafka
-        docker-compose up -d
+        docker compose up -d
 
         cd airflow
-        docker-compose up -d
+        docker compose up -d
 
         cd elk
-        docker-compose up -d
+        docker compose up -d
     
     This command will pull the necessary Docker images, build them, and create the containers for Airflow, Kafka, and ELK.
 
