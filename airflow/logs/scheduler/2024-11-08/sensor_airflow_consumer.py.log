@@ -1,0 +1,742 @@
+[2024-11-08T12:38:29.653+0000] {processor.py:161} INFO - Started process (PID=165) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:38:29.656+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:38:29.661+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:38:29.660+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:38:31.523+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:38:31.690+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:38:31.690+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:38:31.726+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:38:31.726+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:38:31.778+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 2.151 seconds
+[2024-11-08T12:39:02.011+0000] {processor.py:161} INFO - Started process (PID=185) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:39:02.013+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:39:02.022+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:39:02.015+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:39:02.881+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:39:02.900+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:39:02.900+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:39:02.918+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:39:02.918+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:39:02.938+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.935 seconds
+[2024-11-08T12:39:33.737+0000] {processor.py:161} INFO - Started process (PID=204) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:39:33.776+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:39:33.779+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:39:33.778+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:39:35.122+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:39:35.153+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:39:35.153+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:39:35.181+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:39:35.180+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:39:35.207+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 1.478 seconds
+[2024-11-08T12:40:05.410+0000] {processor.py:161} INFO - Started process (PID=221) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:40:05.412+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:40:05.414+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:40:05.414+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:40:06.680+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:40:06.711+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:40:06.711+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:40:06.739+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:40:06.739+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:40:06.767+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 1.365 seconds
+[2024-11-08T12:40:37.077+0000] {processor.py:161} INFO - Started process (PID=240) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:40:37.078+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:40:37.103+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:40:37.102+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:40:51.902+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:40:51.923+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:40:51.922+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:40:51.944+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:40:51.943+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:40:51.968+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 14.896 seconds
+[2024-11-08T12:41:22.162+0000] {processor.py:161} INFO - Started process (PID=263) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:41:22.163+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:41:22.165+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:41:22.165+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:41:22.699+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:41:22.763+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:41:22.762+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:41:22.782+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:41:22.782+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:41:22.797+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.640 seconds
+[2024-11-08T12:41:53.046+0000] {processor.py:161} INFO - Started process (PID=279) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:41:53.047+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:41:53.050+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:41:53.049+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:41:57.481+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:41:57.511+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:41:57.511+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:41:57.538+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:41:57.538+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:41:57.568+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 4.529 seconds
+[2024-11-08T12:42:27.805+0000] {processor.py:161} INFO - Started process (PID=295) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:42:27.807+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:42:27.810+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:42:27.809+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:42:28.767+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:42:28.805+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:42:28.804+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:42:28.821+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:42:28.820+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:42:28.837+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 1.040 seconds
+[2024-11-08T12:42:58.965+0000] {processor.py:161} INFO - Started process (PID=308) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:42:58.967+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:42:58.968+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:42:58.968+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:42:59.377+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:42:59.405+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:42:59.404+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:42:59.422+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:42:59.422+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:42:59.451+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.491 seconds
+[2024-11-08T12:43:29.712+0000] {processor.py:161} INFO - Started process (PID=324) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:43:29.714+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:43:29.722+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:43:29.721+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:43:30.443+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:43:30.470+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:43:30.470+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:43:30.487+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:43:30.486+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:43:30.558+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.861 seconds
+[2024-11-08T12:44:00.753+0000] {processor.py:161} INFO - Started process (PID=346) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:44:00.754+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:44:00.759+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:44:00.758+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:44:01.789+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:44:01.820+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:44:01.820+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:44:01.854+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:44:01.853+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:44:02.793+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 2.049 seconds
+[2024-11-08T12:44:33.073+0000] {processor.py:161} INFO - Started process (PID=369) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:44:33.074+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:44:33.076+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:44:33.076+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:44:33.305+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:44:33.328+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:44:33.328+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:44:33.348+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:44:33.347+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:44:33.364+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.296 seconds
+[2024-11-08T12:45:03.542+0000] {processor.py:161} INFO - Started process (PID=390) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:45:03.543+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:45:03.545+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:45:03.545+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:45:03.857+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:45:03.877+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:45:03.877+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:45:03.897+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:45:03.897+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:45:03.915+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.379 seconds
+[2024-11-08T12:45:33.961+0000] {processor.py:161} INFO - Started process (PID=406) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:45:33.962+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:45:33.964+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:45:33.964+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:45:34.191+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:45:34.210+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:45:34.210+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:45:34.229+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:45:34.228+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:45:34.244+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.291 seconds
+[2024-11-08T12:46:04.287+0000] {processor.py:161} INFO - Started process (PID=422) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:46:04.288+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:46:04.291+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:46:04.290+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:46:04.721+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:46:04.760+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:46:04.759+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:46:04.861+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:46:04.860+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:46:04.917+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.636 seconds
+[2024-11-08T12:46:35.464+0000] {processor.py:161} INFO - Started process (PID=438) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:46:35.465+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:46:35.468+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:46:35.467+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:46:35.797+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:46:35.821+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:46:35.821+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:46:35.844+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:46:35.844+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:46:35.920+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.463 seconds
+[2024-11-08T12:47:05.994+0000] {processor.py:161} INFO - Started process (PID=454) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:47:05.995+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:47:05.998+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:47:05.997+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:47:06.304+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:47:06.327+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:47:06.327+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:47:06.357+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:47:06.357+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:47:06.401+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.413 seconds
+[2024-11-08T12:47:37.163+0000] {processor.py:161} INFO - Started process (PID=470) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:47:37.163+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:47:37.165+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:47:37.165+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:47:37.428+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:47:37.452+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:47:37.452+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:47:37.473+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:47:37.473+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:47:37.498+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.341 seconds
+[2024-11-08T12:48:07.686+0000] {processor.py:161} INFO - Started process (PID=486) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:48:07.687+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:48:07.688+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:48:07.688+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:48:07.929+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:48:07.953+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:48:07.953+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:48:07.975+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:48:07.975+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:48:07.995+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.315 seconds
+[2024-11-08T12:48:38.118+0000] {processor.py:161} INFO - Started process (PID=502) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:48:38.119+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:48:38.121+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:48:38.121+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:48:38.417+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:48:38.458+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:48:38.458+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:48:38.487+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:48:38.487+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:48:38.530+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.419 seconds
+[2024-11-08T12:49:09.318+0000] {processor.py:161} INFO - Started process (PID=518) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:49:09.319+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:49:09.321+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:49:09.321+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:49:09.584+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:49:09.608+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:49:09.608+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:49:09.633+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:49:09.633+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:49:09.653+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.341 seconds
+[2024-11-08T12:49:39.824+0000] {processor.py:161} INFO - Started process (PID=534) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:49:39.825+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:49:39.827+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:49:39.826+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:49:40.092+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:49:40.114+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:49:40.114+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:49:40.137+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:49:40.137+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:49:40.155+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.338 seconds
+[2024-11-08T12:50:11.003+0000] {processor.py:161} INFO - Started process (PID=554) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:50:11.004+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:50:11.006+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:50:11.005+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:50:11.266+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:50:11.297+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:50:11.297+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:50:11.334+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:50:11.334+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:50:11.362+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.364 seconds
+[2024-11-08T12:50:41.514+0000] {processor.py:161} INFO - Started process (PID=570) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:50:41.515+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:50:41.518+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:50:41.517+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:50:41.773+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:50:41.795+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:50:41.795+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:50:41.815+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:50:41.815+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:50:41.832+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.324 seconds
+[2024-11-08T12:51:12.077+0000] {processor.py:161} INFO - Started process (PID=586) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:51:12.091+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:51:12.094+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:51:12.093+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:51:12.629+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:51:12.683+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:51:12.683+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:51:12.742+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:51:12.742+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:51:12.837+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.768 seconds
+[2024-11-08T12:51:43.293+0000] {processor.py:161} INFO - Started process (PID=602) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:51:43.294+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:51:43.295+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:51:43.295+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:51:43.546+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:51:43.569+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:51:43.569+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:51:43.587+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:51:43.587+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:51:43.613+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.326 seconds
+[2024-11-08T12:52:13.846+0000] {processor.py:161} INFO - Started process (PID=618) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:52:13.847+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T12:52:13.849+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:52:13.848+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:52:14.121+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T12:52:14.144+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:52:14.143+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:52:14.165+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:52:14.165+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T12:52:14.195+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.354 seconds
+[2024-11-08T13:18:38.876+0000] {processor.py:161} INFO - Started process (PID=165) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:18:38.877+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:18:38.883+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:18:38.880+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:18:38.931+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:18:38.925+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/sensor_airflow_consumer.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/sensor_airflow_consumer.py", line 4, in <module>
+    from pymongo import MongoClient
+ModuleNotFoundError: No module named 'pymongo'
+[2024-11-08T13:18:38.934+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:18:38.962+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.103 seconds
+[2024-11-08T13:19:09.260+0000] {processor.py:161} INFO - Started process (PID=185) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:19:09.264+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:19:09.280+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:19:09.277+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:19:09.313+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:19:09.307+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/sensor_airflow_consumer.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/sensor_airflow_consumer.py", line 4, in <module>
+    from pymongo import MongoClient
+ModuleNotFoundError: No module named 'pymongo'
+[2024-11-08T13:19:09.316+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:19:09.397+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.203 seconds
+[2024-11-08T13:19:39.448+0000] {processor.py:161} INFO - Started process (PID=201) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:19:39.449+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:19:39.453+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:19:39.453+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:19:39.473+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:19:39.469+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/sensor_airflow_consumer.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/sensor_airflow_consumer.py", line 4, in <module>
+    from pymongo import MongoClient
+ModuleNotFoundError: No module named 'pymongo'
+[2024-11-08T13:19:39.475+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:19:39.496+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.053 seconds
+[2024-11-08T13:20:09.730+0000] {processor.py:161} INFO - Started process (PID=221) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:20:09.734+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:20:09.736+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:20:09.735+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:20:09.786+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:20:09.780+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/sensor_airflow_consumer.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/sensor_airflow_consumer.py", line 4, in <module>
+    from pymongo import MongoClient
+ModuleNotFoundError: No module named 'pymongo'
+[2024-11-08T13:20:09.788+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:20:09.916+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.190 seconds
+[2024-11-08T13:20:40.122+0000] {processor.py:161} INFO - Started process (PID=237) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:20:40.123+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:20:40.124+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:20:40.124+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:20:40.143+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:20:40.138+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/sensor_airflow_consumer.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/sensor_airflow_consumer.py", line 4, in <module>
+    from pymongo import MongoClient
+ModuleNotFoundError: No module named 'pymongo'
+[2024-11-08T13:20:40.144+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:20:40.168+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.051 seconds
+[2024-11-08T13:21:10.360+0000] {processor.py:161} INFO - Started process (PID=253) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:21:10.361+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:21:10.362+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:21:10.362+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:21:10.379+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:21:10.376+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/sensor_airflow_consumer.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/sensor_airflow_consumer.py", line 4, in <module>
+    from pymongo import MongoClient
+ModuleNotFoundError: No module named 'pymongo'
+[2024-11-08T13:21:10.380+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:21:10.395+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.040 seconds
+[2024-11-08T13:21:40.611+0000] {processor.py:161} INFO - Started process (PID=269) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:21:40.612+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:21:40.613+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:21:40.613+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:21:40.629+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:21:40.626+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/sensor_airflow_consumer.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/sensor_airflow_consumer.py", line 4, in <module>
+    from pymongo import MongoClient
+ModuleNotFoundError: No module named 'pymongo'
+[2024-11-08T13:21:40.630+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:21:40.676+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.071 seconds
+[2024-11-08T13:22:10.873+0000] {processor.py:161} INFO - Started process (PID=285) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:22:10.874+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:22:10.875+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:22:10.874+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:22:10.897+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:22:10.892+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/sensor_airflow_consumer.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/sensor_airflow_consumer.py", line 4, in <module>
+    from pymongo import MongoClient
+ModuleNotFoundError: No module named 'pymongo'
+[2024-11-08T13:22:10.899+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:22:10.919+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.051 seconds
+[2024-11-08T13:22:23.036+0000] {processor.py:161} INFO - Started process (PID=295) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:22:23.037+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:22:23.098+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:22:23.097+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:22:23.186+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:22:23.178+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/sensor_airflow_consumer.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/sensor_airflow_consumer.py", line 4, in <module>
+    from pymongo import MongoClient
+ModuleNotFoundError: No module named 'pymongo'
+[2024-11-08T13:22:23.189+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:22:23.222+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.194 seconds
+[2024-11-08T13:22:38.430+0000] {processor.py:161} INFO - Started process (PID=307) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:22:38.431+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:22:38.432+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:22:38.432+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:22:38.476+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:22:38.471+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/sensor_airflow_consumer.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/sensor_airflow_consumer.py", line 4, in <module>
+    from pymongo import MongoClient
+ModuleNotFoundError: No module named 'pymongo'
+[2024-11-08T13:22:38.478+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:22:38.500+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.076 seconds
+[2024-11-08T13:23:26.115+0000] {processor.py:161} INFO - Started process (PID=165) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:23:26.117+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:23:26.119+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:23:26.119+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:23:26.141+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:23:26.136+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/sensor_airflow_consumer.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/sensor_airflow_consumer.py", line 4, in <module>
+    from pymongo import MongoClient
+ModuleNotFoundError: No module named 'pymongo'
+[2024-11-08T13:23:26.143+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:23:26.174+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.067 seconds
+[2024-11-08T13:23:56.364+0000] {processor.py:161} INFO - Started process (PID=181) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:23:56.364+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:23:56.366+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:23:56.366+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:23:56.382+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:23:56.378+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/sensor_airflow_consumer.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/sensor_airflow_consumer.py", line 4, in <module>
+    from pymongo import MongoClient
+ModuleNotFoundError: No module named 'pymongo'
+[2024-11-08T13:23:56.383+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:23:56.406+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.048 seconds
+[2024-11-08T13:24:26.597+0000] {processor.py:161} INFO - Started process (PID=198) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:24:26.598+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:24:26.600+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:24:26.600+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:24:26.618+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:24:26.613+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/sensor_airflow_consumer.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/sensor_airflow_consumer.py", line 4, in <module>
+    from pymongo import MongoClient
+ModuleNotFoundError: No module named 'pymongo'
+[2024-11-08T13:24:26.620+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:24:26.642+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.049 seconds
+[2024-11-08T13:24:56.870+0000] {processor.py:161} INFO - Started process (PID=214) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:24:56.871+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:24:56.874+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:24:56.874+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:24:56.910+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:24:56.905+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/sensor_airflow_consumer.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/sensor_airflow_consumer.py", line 4, in <module>
+    from pymongo import MongoClient
+ModuleNotFoundError: No module named 'pymongo'
+[2024-11-08T13:24:56.912+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:24:56.935+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.070 seconds
+[2024-11-08T13:24:58.991+0000] {processor.py:161} INFO - Started process (PID=222) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:24:58.993+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:24:58.996+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:24:58.995+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:25:00.031+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:25:00.108+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:25:00.108+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:25:00.125+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:25:00.125+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:25:00.144+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 1.161 seconds
+[2024-11-08T13:25:30.334+0000] {processor.py:161} INFO - Started process (PID=244) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:25:30.335+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:25:30.336+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:25:30.336+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:25:30.644+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:25:30.661+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:25:30.661+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:25:30.678+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:25:30.677+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:25:30.693+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.363 seconds
+[2024-11-08T13:26:25.123+0000] {processor.py:161} INFO - Started process (PID=165) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:26:25.124+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:26:25.127+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:26:25.127+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:26:26.181+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:26:26.285+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:26:26.285+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:26:26.302+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:26:26.302+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:26:26.322+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 1.209 seconds
+[2024-11-08T13:26:56.540+0000] {processor.py:161} INFO - Started process (PID=181) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:26:56.542+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:26:56.544+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:26:56.544+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:26:58.255+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:26:58.315+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:26:58.315+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:26:58.379+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:26:58.379+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:26:58.435+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 1.903 seconds
+[2024-11-08T13:27:28.675+0000] {processor.py:161} INFO - Started process (PID=202) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:27:28.676+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:27:28.678+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:27:28.678+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:27:29.044+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:27:29.072+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:27:29.072+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:27:29.094+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:27:29.094+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:27:29.240+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.570 seconds
+[2024-11-08T13:27:59.427+0000] {processor.py:161} INFO - Started process (PID=213) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:27:59.429+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:27:59.435+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:27:59.435+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:27:59.946+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:27:59.975+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:27:59.974+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:28:00.005+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:28:00.005+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:28:00.036+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.617 seconds
+[2024-11-08T13:28:30.210+0000] {processor.py:161} INFO - Started process (PID=232) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:28:30.211+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:28:30.213+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:28:30.213+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:28:30.561+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:28:30.581+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:28:30.580+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:28:30.599+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:28:30.599+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:28:30.615+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.411 seconds
+[2024-11-08T13:29:00.729+0000] {processor.py:161} INFO - Started process (PID=250) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:29:00.730+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:29:00.733+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:29:00.732+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:29:01.153+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:29:01.169+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:29:01.169+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:29:01.185+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:29:01.185+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:29:01.205+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.483 seconds
+[2024-11-08T13:29:31.909+0000] {processor.py:161} INFO - Started process (PID=267) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:29:31.910+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:29:31.913+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:29:31.912+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:29:32.232+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:29:32.249+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:29:32.249+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:29:32.266+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:29:32.266+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:29:32.282+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.378 seconds
+[2024-11-08T13:30:02.450+0000] {processor.py:161} INFO - Started process (PID=283) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:30:02.451+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:30:02.453+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:30:02.453+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:30:02.835+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:30:02.852+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:30:02.852+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:30:02.867+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:30:02.867+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:30:02.883+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.437 seconds
+[2024-11-08T13:31:23.262+0000] {processor.py:161} INFO - Started process (PID=168) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:31:23.263+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:31:23.265+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:31:23.264+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:31:24.356+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:31:24.469+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:31:24.468+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:31:24.491+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:31:24.491+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:31:24.529+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 1.274 seconds
+[2024-11-08T13:31:54.621+0000] {processor.py:161} INFO - Started process (PID=195) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:31:54.622+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:31:54.623+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:31:54.623+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:31:55.029+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:31:55.046+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:31:55.046+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:31:55.062+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:31:55.061+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:31:55.077+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.462 seconds
+[2024-11-08T13:32:25.166+0000] {processor.py:161} INFO - Started process (PID=216) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:32:25.168+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:32:25.170+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:32:25.169+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:32:25.552+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:32:25.570+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:32:25.570+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:32:25.588+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:32:25.587+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:32:25.604+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.443 seconds
+[2024-11-08T13:32:55.673+0000] {processor.py:161} INFO - Started process (PID=237) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:32:55.674+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:32:55.676+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:32:55.675+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:32:56.034+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:32:56.052+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:32:56.051+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:32:56.070+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:32:56.070+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:32:56.086+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.419 seconds
+[2024-11-08T13:33:26.197+0000] {processor.py:161} INFO - Started process (PID=258) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:33:26.198+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:33:26.200+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:33:26.200+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:33:26.578+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:33:26.596+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:33:26.596+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:33:26.612+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:33:26.612+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:33:26.634+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.444 seconds
+[2024-11-08T13:33:56.730+0000] {processor.py:161} INFO - Started process (PID=279) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:33:56.731+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:33:56.734+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:33:56.733+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:33:57.094+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:33:57.113+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:33:57.113+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:33:57.129+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:33:57.129+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:33:57.144+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.421 seconds
+[2024-11-08T13:34:27.204+0000] {processor.py:161} INFO - Started process (PID=300) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:34:27.205+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:34:27.207+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:34:27.207+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:34:27.643+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:34:27.661+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:34:27.661+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:34:27.679+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:34:27.678+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:34:27.697+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.500 seconds
+[2024-11-08T13:34:58.003+0000] {processor.py:161} INFO - Started process (PID=323) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:34:58.005+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:34:58.007+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:34:58.007+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:34:58.401+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:34:58.423+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:34:58.422+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:34:58.444+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:34:58.444+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:34:58.466+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.470 seconds
+[2024-11-08T13:35:28.509+0000] {processor.py:161} INFO - Started process (PID=344) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:35:28.510+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:35:28.512+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:35:28.512+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:35:28.890+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:35:28.912+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:35:28.912+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:35:28.933+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:35:28.933+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:35:28.957+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.453 seconds
+[2024-11-08T13:35:59.126+0000] {processor.py:161} INFO - Started process (PID=365) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:35:59.127+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:35:59.129+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:35:59.128+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:35:59.381+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:35:59.406+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:35:59.406+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:35:59.429+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:35:59.429+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:35:59.454+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.334 seconds
+[2024-11-08T13:36:29.590+0000] {processor.py:161} INFO - Started process (PID=386) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:36:29.591+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:36:29.593+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:36:29.593+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:36:29.951+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:36:29.977+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:36:29.976+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:36:30.008+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:36:30.007+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:36:30.034+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.451 seconds
+[2024-11-08T13:37:00.859+0000] {processor.py:161} INFO - Started process (PID=407) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:37:00.860+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:37:00.862+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:37:00.862+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:37:01.106+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:37:01.129+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:37:01.128+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:37:01.148+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:37:01.148+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:37:01.165+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.312 seconds
+[2024-11-08T13:37:31.205+0000] {processor.py:161} INFO - Started process (PID=428) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:37:31.206+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:37:31.207+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:37:31.207+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:37:31.433+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:37:31.451+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:37:31.451+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:37:31.470+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:37:31.470+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:37:31.487+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.288 seconds
+[2024-11-08T13:38:01.599+0000] {processor.py:161} INFO - Started process (PID=449) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:38:01.600+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:38:01.601+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:38:01.601+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:38:01.838+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:38:01.858+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:38:01.858+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:38:01.881+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:38:01.881+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:38:01.899+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.307 seconds
+[2024-11-08T13:38:31.998+0000] {processor.py:161} INFO - Started process (PID=470) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:38:31.999+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:38:32.000+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:38:32.000+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:38:32.229+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:38:32.249+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:38:32.249+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:38:32.268+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:38:32.268+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:38:32.284+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.291 seconds
+[2024-11-08T13:39:02.516+0000] {processor.py:161} INFO - Started process (PID=491) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:39:02.517+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:39:02.519+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:39:02.518+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:39:02.741+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:39:02.762+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:39:02.762+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:39:02.782+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:39:02.782+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:39:02.799+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.290 seconds
+[2024-11-08T13:39:32.871+0000] {processor.py:161} INFO - Started process (PID=512) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:39:32.872+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:39:32.874+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:39:32.873+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:39:33.090+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:39:33.110+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:39:33.109+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:39:33.128+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:39:33.127+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:39:33.144+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.279 seconds
+[2024-11-08T13:40:03.224+0000] {processor.py:161} INFO - Started process (PID=533) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:40:03.224+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:40:03.227+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:40:03.226+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:40:03.444+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:40:03.464+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:40:03.464+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:40:03.482+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:40:03.482+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:40:03.499+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.281 seconds
+[2024-11-08T13:40:33.577+0000] {processor.py:161} INFO - Started process (PID=554) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:40:33.578+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:40:33.580+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:40:33.579+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:40:33.792+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:40:33.811+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:40:33.811+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:40:33.830+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:40:33.830+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:40:33.848+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.276 seconds
+[2024-11-08T13:41:03.916+0000] {processor.py:161} INFO - Started process (PID=575) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:41:03.918+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:41:03.919+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:41:03.919+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:41:04.144+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:41:04.168+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:41:04.168+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:41:04.195+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:41:04.195+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:41:04.217+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.307 seconds
+[2024-11-08T13:41:34.257+0000] {processor.py:161} INFO - Started process (PID=596) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:41:34.258+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:41:34.259+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:41:34.259+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:41:34.476+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:41:34.499+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:41:34.499+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:41:34.518+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:41:34.517+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:41:34.548+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.296 seconds
+[2024-11-08T13:42:04.601+0000] {processor.py:161} INFO - Started process (PID=617) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:42:04.602+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:42:04.603+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:42:04.603+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:42:04.836+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:42:04.856+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:42:04.856+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:42:04.876+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:42:04.875+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:42:04.891+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.296 seconds
+[2024-11-08T13:42:34.966+0000] {processor.py:161} INFO - Started process (PID=638) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:42:34.967+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:42:34.968+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:42:34.968+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:42:35.205+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:42:35.227+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:42:35.226+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:42:35.246+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:42:35.246+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:42:35.263+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.303 seconds
+[2024-11-08T13:43:05.365+0000] {processor.py:161} INFO - Started process (PID=660) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:43:05.366+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:43:05.368+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:43:05.367+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:43:05.579+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:43:05.598+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:43:05.598+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:43:05.616+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:43:05.615+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:43:05.631+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.273 seconds
+[2024-11-08T13:43:36.542+0000] {processor.py:161} INFO - Started process (PID=681) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:43:36.634+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:43:36.637+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:43:36.637+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:43:36.994+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:43:37.035+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:43:37.035+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:43:37.070+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:43:37.069+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:43:37.106+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.570 seconds
+[2024-11-08T13:44:08.022+0000] {processor.py:161} INFO - Started process (PID=702) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:44:08.026+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:44:08.028+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:44:08.027+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:44:08.248+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:44:08.272+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:44:08.272+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:44:08.296+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:44:08.296+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:44:08.315+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.299 seconds
+[2024-11-08T13:44:38.440+0000] {processor.py:161} INFO - Started process (PID=718) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:44:38.441+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:44:38.442+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:44:38.442+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:44:38.708+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:44:38.737+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:44:38.736+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:44:38.763+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:44:38.762+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:44:38.784+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.351 seconds
+[2024-11-08T13:45:08.874+0000] {processor.py:161} INFO - Started process (PID=734) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:45:08.876+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:45:08.877+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:45:08.876+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:45:09.115+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:45:09.136+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:45:09.136+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:45:09.158+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:45:09.158+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:45:09.178+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.310 seconds
+[2024-11-08T13:45:40.042+0000] {processor.py:161} INFO - Started process (PID=750) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:45:40.043+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:45:40.044+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:45:40.044+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:45:40.263+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:45:40.283+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:45:40.283+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:45:40.303+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:45:40.302+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:45:40.318+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.282 seconds
+[2024-11-08T13:46:10.491+0000] {processor.py:161} INFO - Started process (PID=766) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:46:10.492+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:46:10.493+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:46:10.493+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:46:10.707+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:46:10.726+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:46:10.725+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:46:10.743+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:46:10.743+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:46:10.760+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.273 seconds
+[2024-11-08T13:46:40.845+0000] {processor.py:161} INFO - Started process (PID=782) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:46:40.846+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:46:40.847+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:46:40.846+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:46:41.064+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:46:41.088+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:46:41.088+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:46:41.114+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:46:41.114+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:46:41.139+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.300 seconds
+[2024-11-08T13:47:11.206+0000] {processor.py:161} INFO - Started process (PID=798) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:47:11.207+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:47:11.208+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:47:11.207+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:47:11.428+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:47:11.449+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:47:11.449+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:47:11.468+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:47:11.468+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:47:11.483+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.282 seconds
+[2024-11-08T13:47:42.376+0000] {processor.py:161} INFO - Started process (PID=814) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:47:42.377+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:47:42.378+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:47:42.378+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:47:42.609+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:47:42.631+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:47:42.631+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:47:42.650+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:47:42.650+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:47:42.695+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.324 seconds
+[2024-11-08T13:48:12.836+0000] {processor.py:161} INFO - Started process (PID=830) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:48:12.837+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:48:12.838+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:48:12.838+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:48:13.063+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:48:13.084+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:48:13.084+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:48:13.102+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:48:13.102+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:48:13.122+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.292 seconds
+[2024-11-08T13:48:44.015+0000] {processor.py:161} INFO - Started process (PID=846) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:48:44.016+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:48:44.017+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:48:44.017+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:48:44.240+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:48:44.261+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:48:44.261+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:48:44.279+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:48:44.278+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:48:44.294+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.284 seconds
+[2024-11-08T13:49:14.473+0000] {processor.py:161} INFO - Started process (PID=869) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:49:14.474+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:49:14.476+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:49:14.475+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:49:14.767+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:49:14.787+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:49:14.787+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:49:14.805+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:49:14.805+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:49:14.822+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.356 seconds
+[2024-11-08T13:49:44.862+0000] {processor.py:161} INFO - Started process (PID=885) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:49:44.863+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:49:44.864+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:49:44.864+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:49:45.091+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:49:45.110+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:49:45.110+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:49:45.128+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:49:45.128+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:49:45.144+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.288 seconds
+[2024-11-08T13:50:15.192+0000] {processor.py:161} INFO - Started process (PID=901) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:50:15.193+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:50:15.194+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:50:15.193+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:50:15.408+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:50:15.427+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:50:15.427+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:50:15.449+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:50:15.449+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:50:15.466+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.281 seconds
+[2024-11-08T13:50:45.578+0000] {processor.py:161} INFO - Started process (PID=917) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:50:45.579+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:50:45.581+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:50:45.580+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:50:45.818+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:50:45.838+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:50:45.838+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:50:45.861+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:50:45.860+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:50:45.880+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.308 seconds
+[2024-11-08T13:51:16.765+0000] {processor.py:161} INFO - Started process (PID=933) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:51:16.766+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:51:16.767+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:51:16.767+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:51:17.046+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:51:17.068+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:51:17.068+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:51:17.087+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:51:17.087+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:51:17.105+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.347 seconds
+[2024-11-08T13:51:47.292+0000] {processor.py:161} INFO - Started process (PID=949) to work on /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:51:47.293+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow_consumer.py for tasks to queue
+[2024-11-08T13:51:47.295+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:51:47.294+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:51:47.567+0000] {processor.py:840} INFO - DAG(s) 'sensor_data_consumer' retrieved from /opt/airflow/dags/sensor_airflow_consumer.py
+[2024-11-08T13:51:47.587+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:51:47.587+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:51:47.607+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:51:47.607+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data_consumer to 2025-01-01 00:00:00+00:00, run_after=2026-01-01 00:00:00+00:00
+[2024-11-08T13:51:47.629+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow_consumer.py took 0.342 seconds

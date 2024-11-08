@@ -1,0 +1,637 @@
+[2024-11-08T12:38:29.662+0000] {processor.py:161} INFO - Started process (PID=168) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:38:29.664+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:38:29.669+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:38:29.668+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:38:29.932+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:38:31.204+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:38:31.203+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:38:31.286+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:38:31.286+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:30:00+00:00, run_after=2024-11-08 12:35:00+00:00
+[2024-11-08T12:38:31.344+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 1.698 seconds
+[2024-11-08T12:39:02.022+0000] {processor.py:161} INFO - Started process (PID=188) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:39:02.024+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:39:02.026+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:39:02.026+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:39:02.141+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:39:02.172+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:39:02.172+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:39:02.203+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:39:02.203+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:35:00+00:00, run_after=2024-11-08 12:40:00+00:00
+[2024-11-08T12:39:02.649+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.637 seconds
+[2024-11-08T12:39:33.700+0000] {processor.py:161} INFO - Started process (PID=201) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:39:33.767+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:39:33.770+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:39:33.769+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:39:34.150+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:39:34.253+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:39:34.253+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:39:34.975+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:39:34.974+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:35:00+00:00, run_after=2024-11-08 12:40:00+00:00
+[2024-11-08T12:39:35.009+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 1.324 seconds
+[2024-11-08T12:40:05.414+0000] {processor.py:161} INFO - Started process (PID=224) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:40:05.416+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:40:05.418+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:40:05.418+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:40:05.490+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:40:05.521+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:40:05.521+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:40:06.491+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:40:06.491+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:40:00+00:00, run_after=2024-11-08 12:45:00+00:00
+[2024-11-08T12:40:06.517+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 1.109 seconds
+[2024-11-08T12:40:37.052+0000] {processor.py:161} INFO - Started process (PID=237) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:40:37.053+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:40:37.103+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:40:37.102+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:40:39.082+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:40:51.652+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:40:51.652+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:40:51.705+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:40:51.705+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:40:00+00:00, run_after=2024-11-08 12:45:00+00:00
+[2024-11-08T12:40:51.727+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 14.724 seconds
+[2024-11-08T12:41:21.942+0000] {processor.py:161} INFO - Started process (PID=260) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:41:21.943+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:41:21.945+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:41:21.945+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:41:22.341+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:41:22.460+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:41:22.460+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:41:22.503+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:41:22.503+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:40:00+00:00, run_after=2024-11-08 12:45:00+00:00
+[2024-11-08T12:41:22.534+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.599 seconds
+[2024-11-08T12:41:52.762+0000] {processor.py:161} INFO - Started process (PID=276) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:41:52.763+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:41:52.818+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:41:52.817+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:41:56.850+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:41:56.899+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:41:56.899+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:41:57.208+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:41:57.208+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:40:00+00:00, run_after=2024-11-08 12:45:00+00:00
+[2024-11-08T12:41:57.354+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 4.598 seconds
+[2024-11-08T12:42:27.567+0000] {processor.py:161} INFO - Started process (PID=292) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:42:27.568+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:42:27.570+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:42:27.570+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:42:27.824+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:42:27.852+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:42:27.851+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:42:27.891+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:42:27.891+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:40:00+00:00, run_after=2024-11-08 12:45:00+00:00
+[2024-11-08T12:42:27.939+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.384 seconds
+[2024-11-08T12:42:58.976+0000] {processor.py:161} INFO - Started process (PID=311) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:42:58.977+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:42:58.979+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:42:58.979+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:42:59.241+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:42:59.275+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:42:59.274+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:42:59.299+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:42:59.299+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:40:00+00:00, run_after=2024-11-08 12:45:00+00:00
+[2024-11-08T12:42:59.319+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.350 seconds
+[2024-11-08T12:43:29.727+0000] {processor.py:161} INFO - Started process (PID=327) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:43:29.728+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:43:29.732+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:43:29.732+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:43:30.268+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:43:30.300+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:43:30.300+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:43:30.322+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:43:30.322+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:40:00+00:00, run_after=2024-11-08 12:45:00+00:00
+[2024-11-08T12:43:30.383+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.677 seconds
+[2024-11-08T12:44:00.584+0000] {processor.py:161} INFO - Started process (PID=342) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:44:00.585+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:44:00.587+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:44:00.586+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:44:00.823+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:44:01.168+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:44:01.168+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:44:01.244+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:44:01.244+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:40:00+00:00, run_after=2024-11-08 12:45:00+00:00
+[2024-11-08T12:44:01.288+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.711 seconds
+[2024-11-08T12:44:32.045+0000] {processor.py:161} INFO - Started process (PID=364) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:44:32.046+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:44:32.048+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:44:32.048+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:44:32.106+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:44:32.131+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:44:32.131+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:44:32.153+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:44:32.152+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:40:00+00:00, run_after=2024-11-08 12:45:00+00:00
+[2024-11-08T12:44:32.181+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.141 seconds
+[2024-11-08T12:45:02.396+0000] {processor.py:161} INFO - Started process (PID=384) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:45:02.398+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:45:02.401+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:45:02.400+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:45:02.491+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:45:02.533+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:45:02.532+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:45:02.575+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:45:02.575+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:45:00+00:00, run_after=2024-11-08 12:50:00+00:00
+[2024-11-08T12:45:02.599+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.211 seconds
+[2024-11-08T12:45:32.793+0000] {processor.py:161} INFO - Started process (PID=401) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:45:32.794+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:45:32.796+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:45:32.796+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:45:32.852+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:45:32.876+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:45:32.876+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:45:32.896+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:45:32.896+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:45:00+00:00, run_after=2024-11-08 12:50:00+00:00
+[2024-11-08T12:45:32.913+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.125 seconds
+[2024-11-08T12:46:03.110+0000] {processor.py:161} INFO - Started process (PID=417) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:46:03.111+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:46:03.113+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:46:03.112+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:46:03.177+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:46:03.202+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:46:03.202+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:46:03.223+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:46:03.223+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:45:00+00:00, run_after=2024-11-08 12:50:00+00:00
+[2024-11-08T12:46:03.241+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.136 seconds
+[2024-11-08T12:46:33.439+0000] {processor.py:161} INFO - Started process (PID=433) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:46:33.440+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:46:33.442+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:46:33.441+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:46:33.496+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:46:33.520+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:46:33.520+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:46:33.540+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:46:33.540+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:45:00+00:00, run_after=2024-11-08 12:50:00+00:00
+[2024-11-08T12:46:33.558+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.125 seconds
+[2024-11-08T12:47:03.733+0000] {processor.py:161} INFO - Started process (PID=449) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:47:03.734+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:47:03.736+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:47:03.736+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:47:03.819+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:47:03.865+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:47:03.864+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:47:03.894+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:47:03.894+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:45:00+00:00, run_after=2024-11-08 12:50:00+00:00
+[2024-11-08T12:47:03.914+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.187 seconds
+[2024-11-08T12:47:34.138+0000] {processor.py:161} INFO - Started process (PID=465) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:47:34.139+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:47:34.141+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:47:34.141+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:47:34.208+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:47:34.237+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:47:34.237+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:47:34.262+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:47:34.262+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:45:00+00:00, run_after=2024-11-08 12:50:00+00:00
+[2024-11-08T12:47:34.289+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.156 seconds
+[2024-11-08T12:48:04.495+0000] {processor.py:161} INFO - Started process (PID=481) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:48:04.496+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:48:04.498+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:48:04.497+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:48:04.581+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:48:04.614+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:48:04.614+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:48:04.655+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:48:04.655+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:45:00+00:00, run_after=2024-11-08 12:50:00+00:00
+[2024-11-08T12:48:04.683+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.196 seconds
+[2024-11-08T12:48:34.929+0000] {processor.py:161} INFO - Started process (PID=497) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:48:34.931+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:48:34.932+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:48:34.932+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:48:34.994+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:48:35.019+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:48:35.019+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:48:35.043+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:48:35.043+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:45:00+00:00, run_after=2024-11-08 12:50:00+00:00
+[2024-11-08T12:48:35.064+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.140 seconds
+[2024-11-08T12:49:05.276+0000] {processor.py:161} INFO - Started process (PID=513) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:49:05.278+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:49:05.281+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:49:05.281+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:49:05.364+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:49:05.397+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:49:05.396+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:49:05.419+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:49:05.418+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:45:00+00:00, run_after=2024-11-08 12:50:00+00:00
+[2024-11-08T12:49:05.439+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.169 seconds
+[2024-11-08T12:49:35.639+0000] {processor.py:161} INFO - Started process (PID=529) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:49:35.640+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:49:35.642+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:49:35.641+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:49:35.700+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:49:35.723+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:49:35.723+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:49:35.743+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:49:35.743+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:45:00+00:00, run_after=2024-11-08 12:50:00+00:00
+[2024-11-08T12:49:35.759+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.126 seconds
+[2024-11-08T12:50:05.964+0000] {processor.py:161} INFO - Started process (PID=549) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:50:05.965+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:50:05.967+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:50:05.967+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:50:06.033+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:50:06.059+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:50:06.058+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:50:06.081+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:50:06.080+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:50:00+00:00, run_after=2024-11-08 12:55:00+00:00
+[2024-11-08T12:50:06.100+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.143 seconds
+[2024-11-08T12:50:36.301+0000] {processor.py:161} INFO - Started process (PID=565) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:50:36.303+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:50:36.305+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:50:36.304+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:50:36.370+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:50:36.396+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:50:36.395+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:50:36.418+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:50:36.418+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:50:00+00:00, run_after=2024-11-08 12:55:00+00:00
+[2024-11-08T12:50:36.441+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.145 seconds
+[2024-11-08T12:51:06.679+0000] {processor.py:161} INFO - Started process (PID=581) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:51:06.682+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:51:06.684+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:51:06.684+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:51:06.778+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:51:06.823+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:51:06.823+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:51:06.876+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:51:06.876+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:50:00+00:00, run_after=2024-11-08 12:55:00+00:00
+[2024-11-08T12:51:07.012+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.344 seconds
+[2024-11-08T12:51:37.272+0000] {processor.py:161} INFO - Started process (PID=597) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:51:37.273+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:51:37.274+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:51:37.274+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:51:37.330+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:51:37.355+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:51:37.355+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:51:37.379+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:51:37.379+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:50:00+00:00, run_after=2024-11-08 12:55:00+00:00
+[2024-11-08T12:51:37.407+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.141 seconds
+[2024-11-08T12:52:07.597+0000] {processor.py:161} INFO - Started process (PID=613) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:52:07.599+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:52:07.601+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:52:07.601+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:52:07.667+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:52:07.695+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:52:07.694+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:52:07.717+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:52:07.717+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:50:00+00:00, run_after=2024-11-08 12:55:00+00:00
+[2024-11-08T12:52:07.791+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.200 seconds
+[2024-11-08T12:52:37.987+0000] {processor.py:161} INFO - Started process (PID=629) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:52:37.988+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T12:52:37.990+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:52:37.990+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:52:38.049+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T12:52:38.081+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:52:38.081+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T12:52:38.106+0000] {logging_mixin.py:188} INFO - [2024-11-08T12:52:38.106+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 12:50:00+00:00, run_after=2024-11-08 12:55:00+00:00
+[2024-11-08T12:52:38.136+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.155 seconds
+[2024-11-08T13:18:38.886+0000] {processor.py:161} INFO - Started process (PID=168) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:18:38.888+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:18:38.890+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:18:38.889+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:18:39.058+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:18:39.546+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:18:39.546+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:18:39.574+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:18:39.574+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:10:00+00:00, run_after=2024-11-08 13:15:00+00:00
+[2024-11-08T13:18:39.612+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.738 seconds
+[2024-11-08T13:19:10.295+0000] {processor.py:161} INFO - Started process (PID=190) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:19:10.301+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:19:10.314+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:19:10.312+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:19:10.501+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:19:11.243+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:19:11.243+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:19:11.270+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:19:11.270+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:15:00+00:00, run_after=2024-11-08 13:20:00+00:00
+[2024-11-08T13:19:11.290+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 1.045 seconds
+[2024-11-08T13:19:41.469+0000] {processor.py:161} INFO - Started process (PID=206) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:19:41.470+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:19:41.471+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:19:41.470+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:19:41.647+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:19:41.669+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:19:41.669+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:19:41.690+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:19:41.690+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:15:00+00:00, run_after=2024-11-08 13:20:00+00:00
+[2024-11-08T13:19:41.713+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.249 seconds
+[2024-11-08T13:20:11.897+0000] {processor.py:161} INFO - Started process (PID=226) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:20:11.901+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:20:11.902+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:20:11.901+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:20:12.096+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:20:12.118+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:20:12.117+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:20:12.141+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:20:12.141+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:20:00+00:00, run_after=2024-11-08 13:25:00+00:00
+[2024-11-08T13:20:12.162+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.270 seconds
+[2024-11-08T13:20:42.214+0000] {processor.py:161} INFO - Started process (PID=242) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:20:42.215+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:20:42.216+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:20:42.216+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:20:42.369+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:20:42.387+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:20:42.387+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:20:42.404+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:20:42.404+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:20:00+00:00, run_after=2024-11-08 13:25:00+00:00
+[2024-11-08T13:20:42.427+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.217 seconds
+[2024-11-08T13:21:13.392+0000] {processor.py:161} INFO - Started process (PID=258) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:21:13.393+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:21:13.395+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:21:13.394+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:21:13.584+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:21:13.604+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:21:13.604+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:21:13.623+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:21:13.623+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:20:00+00:00, run_after=2024-11-08 13:25:00+00:00
+[2024-11-08T13:21:13.638+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.253 seconds
+[2024-11-08T13:21:43.729+0000] {processor.py:161} INFO - Started process (PID=274) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:21:43.730+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:21:43.731+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:21:43.731+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:21:43.974+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:21:44.000+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:21:44.000+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:21:44.021+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:21:44.020+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:20:00+00:00, run_after=2024-11-08 13:25:00+00:00
+[2024-11-08T13:21:44.051+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.327 seconds
+[2024-11-08T13:22:14.905+0000] {processor.py:161} INFO - Started process (PID=290) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:22:14.906+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:22:14.907+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:22:14.907+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:22:15.087+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:22:15.111+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:22:15.111+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:22:15.129+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:22:15.129+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:20:00+00:00, run_after=2024-11-08 13:25:00+00:00
+[2024-11-08T13:22:15.144+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.244 seconds
+[2024-11-08T13:22:45.492+0000] {processor.py:161} INFO - Started process (PID=376) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:22:45.494+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:22:45.496+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:22:45.495+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:22:45.590+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:22:45.622+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:22:45.622+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:22:45.655+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:22:45.654+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:20:00+00:00, run_after=2024-11-08 13:25:00+00:00
+[2024-11-08T13:22:45.680+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.195 seconds
+[2024-11-08T13:23:26.124+0000] {processor.py:161} INFO - Started process (PID=168) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:23:26.125+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:23:26.128+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:23:26.127+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:23:26.200+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:23:26.443+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:23:26.443+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:23:26.470+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:23:26.469+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:20:00+00:00, run_after=2024-11-08 13:25:00+00:00
+[2024-11-08T13:23:26.498+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.381 seconds
+[2024-11-08T13:23:57.381+0000] {processor.py:161} INFO - Started process (PID=186) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:23:57.382+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:23:57.383+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:23:57.383+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:23:57.435+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:23:57.457+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:23:57.457+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:23:57.480+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:23:57.480+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:20:00+00:00, run_after=2024-11-08 13:25:00+00:00
+[2024-11-08T13:23:57.632+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.256 seconds
+[2024-11-08T13:24:27.688+0000] {processor.py:161} INFO - Started process (PID=203) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:24:27.689+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:24:27.691+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:24:27.691+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:24:27.748+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:24:27.770+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:24:27.770+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:24:27.949+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:24:27.949+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:20:00+00:00, run_after=2024-11-08 13:25:00+00:00
+[2024-11-08T13:24:27.972+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.290 seconds
+[2024-11-08T13:24:58.888+0000] {processor.py:161} INFO - Started process (PID=219) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:24:58.889+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:24:58.890+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:24:58.890+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:24:58.949+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:24:58.980+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:24:58.980+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:24:59.169+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:24:59.169+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:20:00+00:00, run_after=2024-11-08 13:25:00+00:00
+[2024-11-08T13:24:59.191+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.308 seconds
+[2024-11-08T13:25:29.330+0000] {processor.py:161} INFO - Started process (PID=239) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:25:29.332+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:25:29.333+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:25:29.333+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:25:29.388+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:25:29.512+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:25:29.511+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:25:29.528+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:25:29.528+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:25:00+00:00, run_after=2024-11-08 13:30:00+00:00
+[2024-11-08T13:25:29.543+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.219 seconds
+[2024-11-08T13:26:25.134+0000] {processor.py:161} INFO - Started process (PID=168) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:26:25.135+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:26:25.138+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:26:25.138+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:26:25.233+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:26:25.640+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:26:25.640+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:26:25.658+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:26:25.658+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:25:00+00:00, run_after=2024-11-08 13:30:00+00:00
+[2024-11-08T13:26:25.676+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.551 seconds
+[2024-11-08T13:26:56.548+0000] {processor.py:161} INFO - Started process (PID=184) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:26:56.565+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:26:56.568+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:26:56.567+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:26:56.752+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:26:57.253+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:26:57.252+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:26:57.744+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:26:57.743+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:25:00+00:00, run_after=2024-11-08 13:30:00+00:00
+[2024-11-08T13:26:57.873+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 1.337 seconds
+[2024-11-08T13:27:28.196+0000] {processor.py:161} INFO - Started process (PID=197) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:27:28.197+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:27:28.200+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:27:28.200+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:27:28.440+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:27:28.464+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:27:28.464+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:27:28.485+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:27:28.485+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:25:00+00:00, run_after=2024-11-08 13:30:00+00:00
+[2024-11-08T13:27:28.608+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.420 seconds
+[2024-11-08T13:27:59.449+0000] {processor.py:161} INFO - Started process (PID=216) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:27:59.451+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:27:59.454+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:27:59.453+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:27:59.755+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:27:59.778+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:27:59.778+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:27:59.796+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:27:59.796+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:25:00+00:00, run_after=2024-11-08 13:30:00+00:00
+[2024-11-08T13:27:59.822+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.380 seconds
+[2024-11-08T13:28:30.016+0000] {processor.py:161} INFO - Started process (PID=229) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:28:30.017+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:28:30.019+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:28:30.019+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:28:30.185+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:28:30.207+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:28:30.206+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:28:30.226+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:28:30.226+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:25:00+00:00, run_after=2024-11-08 13:30:00+00:00
+[2024-11-08T13:28:30.247+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.236 seconds
+[2024-11-08T13:29:00.438+0000] {processor.py:161} INFO - Started process (PID=245) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:29:00.439+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:29:00.441+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:29:00.441+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:29:00.620+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:29:00.641+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:29:00.640+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:29:00.661+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:29:00.660+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:25:00+00:00, run_after=2024-11-08 13:30:00+00:00
+[2024-11-08T13:29:00.679+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.246 seconds
+[2024-11-08T13:29:30.894+0000] {processor.py:161} INFO - Started process (PID=262) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:29:30.896+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:29:30.898+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:29:30.897+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:29:31.086+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:29:31.106+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:29:31.106+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:29:31.127+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:29:31.127+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:25:00+00:00, run_after=2024-11-08 13:30:00+00:00
+[2024-11-08T13:29:31.143+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.254 seconds
+[2024-11-08T13:30:01.351+0000] {processor.py:161} INFO - Started process (PID=278) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:30:01.352+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:30:01.354+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:30:01.354+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:30:01.512+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:30:01.534+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:30:01.534+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:30:01.552+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:30:01.552+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:25:00+00:00, run_after=2024-11-08 13:30:00+00:00
+[2024-11-08T13:30:01.570+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.224 seconds
+[2024-11-08T13:31:23.344+0000] {processor.py:161} INFO - Started process (PID=173) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:31:23.344+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:31:23.346+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:31:23.346+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:31:23.413+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:31:23.845+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:31:23.844+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:31:23.871+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:31:23.871+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:25:00+00:00, run_after=2024-11-08 13:30:00+00:00
+[2024-11-08T13:31:23.890+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.552 seconds
+[2024-11-08T13:31:54.561+0000] {processor.py:161} INFO - Started process (PID=192) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:31:54.561+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:31:54.563+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:31:54.563+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:31:54.622+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:31:54.819+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:31:54.819+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:31:54.846+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:31:54.845+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:25:00+00:00, run_after=2024-11-08 13:30:00+00:00
+[2024-11-08T13:31:54.866+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.310 seconds
+[2024-11-08T13:32:25.098+0000] {processor.py:161} INFO - Started process (PID=213) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:32:25.099+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:32:25.101+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:32:25.101+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:32:25.297+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:32:25.328+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:32:25.327+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:32:25.355+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:32:25.355+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:25:00+00:00, run_after=2024-11-08 13:30:00+00:00
+[2024-11-08T13:32:25.380+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.287 seconds
+[2024-11-08T13:32:55.610+0000] {processor.py:161} INFO - Started process (PID=234) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:32:55.611+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:32:55.613+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:32:55.613+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:32:55.802+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:32:55.824+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:32:55.823+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:32:55.843+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:32:55.843+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:25:00+00:00, run_after=2024-11-08 13:30:00+00:00
+[2024-11-08T13:32:55.860+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.255 seconds
+[2024-11-08T13:33:26.111+0000] {processor.py:161} INFO - Started process (PID=255) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:33:26.112+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:33:26.114+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:33:26.113+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:33:26.305+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:33:26.327+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:33:26.326+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:33:26.348+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:33:26.348+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:25:00+00:00, run_after=2024-11-08 13:30:00+00:00
+[2024-11-08T13:33:26.379+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.274 seconds
+[2024-11-08T13:33:56.600+0000] {processor.py:161} INFO - Started process (PID=276) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:33:56.601+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:33:56.603+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:33:56.603+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:33:56.782+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:33:56.813+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:33:56.813+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:33:56.839+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:33:56.838+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:25:00+00:00, run_after=2024-11-08 13:30:00+00:00
+[2024-11-08T13:33:56.866+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.270 seconds
+[2024-11-08T13:34:27.154+0000] {processor.py:161} INFO - Started process (PID=297) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:34:27.155+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:34:27.157+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:34:27.157+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:34:27.343+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:34:27.372+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:34:27.372+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:34:27.404+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:34:27.404+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:25:00+00:00, run_after=2024-11-08 13:30:00+00:00
+[2024-11-08T13:34:27.430+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.281 seconds
+[2024-11-08T13:34:57.671+0000] {processor.py:161} INFO - Started process (PID=318) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:34:57.672+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:34:57.674+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:34:57.674+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:34:57.873+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:34:57.903+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:34:57.903+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:34:57.931+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:34:57.930+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:25:00+00:00, run_after=2024-11-08 13:30:00+00:00
+[2024-11-08T13:34:57.954+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.288 seconds
+[2024-11-08T13:35:28.191+0000] {processor.py:161} INFO - Started process (PID=339) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:35:28.192+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:35:28.194+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:35:28.194+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:35:28.384+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:35:28.414+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:35:28.414+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:35:28.444+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:35:28.444+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:30:00+00:00, run_after=2024-11-08 13:35:00+00:00
+[2024-11-08T13:35:28.465+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.280 seconds
+[2024-11-08T13:35:58.906+0000] {processor.py:161} INFO - Started process (PID=360) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:35:58.907+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:35:58.910+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:35:58.909+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:35:59.014+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:35:59.041+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:35:59.041+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:35:59.064+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:35:59.064+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:30:00+00:00, run_after=2024-11-08 13:35:00+00:00
+[2024-11-08T13:35:59.084+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.186 seconds
+[2024-11-08T13:36:29.410+0000] {processor.py:161} INFO - Started process (PID=381) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:36:29.411+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:36:29.412+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:36:29.412+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:36:29.483+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:36:29.508+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:36:29.508+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:36:29.529+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:36:29.529+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:30:00+00:00, run_after=2024-11-08 13:35:00+00:00
+[2024-11-08T13:36:29.548+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.144 seconds
+[2024-11-08T13:36:59.781+0000] {processor.py:161} INFO - Started process (PID=402) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:36:59.782+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:36:59.784+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:36:59.784+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:36:59.841+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:36:59.864+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:36:59.864+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:36:59.887+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:36:59.887+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:30:00+00:00, run_after=2024-11-08 13:35:00+00:00
+[2024-11-08T13:36:59.903+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.127 seconds
+[2024-11-08T13:37:30.130+0000] {processor.py:161} INFO - Started process (PID=423) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:37:30.131+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:37:30.133+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:37:30.132+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:37:30.188+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:37:30.212+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:37:30.212+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:37:30.232+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:37:30.231+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:30:00+00:00, run_after=2024-11-08 13:35:00+00:00
+[2024-11-08T13:37:30.250+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.126 seconds
+[2024-11-08T13:38:00.482+0000] {processor.py:161} INFO - Started process (PID=444) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:38:00.483+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:38:00.484+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:38:00.484+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:38:00.539+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:38:00.561+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:38:00.561+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:38:00.581+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:38:00.581+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:30:00+00:00, run_after=2024-11-08 13:35:00+00:00
+[2024-11-08T13:38:00.600+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.124 seconds
+[2024-11-08T13:38:30.831+0000] {processor.py:161} INFO - Started process (PID=465) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:38:30.832+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:38:30.834+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:38:30.834+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:38:30.892+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:38:30.918+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:38:30.917+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:38:30.939+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:38:30.938+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:30:00+00:00, run_after=2024-11-08 13:35:00+00:00
+[2024-11-08T13:38:30.957+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.131 seconds
+[2024-11-08T13:39:01.210+0000] {processor.py:161} INFO - Started process (PID=486) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:39:01.211+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:39:01.213+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:39:01.213+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:39:01.336+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:39:01.403+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:39:01.403+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:39:01.437+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:39:01.437+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:30:00+00:00, run_after=2024-11-08 13:35:00+00:00
+[2024-11-08T13:39:01.464+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.262 seconds
+[2024-11-08T13:39:31.714+0000] {processor.py:161} INFO - Started process (PID=507) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:39:31.715+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:39:31.717+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:39:31.716+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:39:31.772+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:39:31.795+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:39:31.795+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:39:31.814+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:39:31.814+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:30:00+00:00, run_after=2024-11-08 13:35:00+00:00
+[2024-11-08T13:39:31.829+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.121 seconds
+[2024-11-08T13:40:02.063+0000] {processor.py:161} INFO - Started process (PID=528) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:40:02.063+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:40:02.065+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:40:02.065+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:40:02.121+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:40:02.144+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:40:02.144+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:40:02.165+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:40:02.165+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:35:00+00:00, run_after=2024-11-08 13:40:00+00:00
+[2024-11-08T13:40:02.181+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.125 seconds
+[2024-11-08T13:40:32.409+0000] {processor.py:161} INFO - Started process (PID=549) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:40:32.411+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:40:32.413+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:40:32.412+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:40:32.474+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:40:32.499+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:40:32.498+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:40:32.519+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:40:32.519+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:35:00+00:00, run_after=2024-11-08 13:40:00+00:00
+[2024-11-08T13:40:32.536+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.134 seconds
+[2024-11-08T13:41:02.760+0000] {processor.py:161} INFO - Started process (PID=570) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:41:02.761+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:41:02.762+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:41:02.762+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:41:02.814+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:41:02.836+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:41:02.836+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:41:02.856+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:41:02.855+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:35:00+00:00, run_after=2024-11-08 13:40:00+00:00
+[2024-11-08T13:41:02.873+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.119 seconds
+[2024-11-08T13:41:33.096+0000] {processor.py:161} INFO - Started process (PID=591) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:41:33.097+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:41:33.099+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:41:33.099+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:41:33.156+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:41:33.179+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:41:33.179+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:41:33.199+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:41:33.199+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:35:00+00:00, run_after=2024-11-08 13:40:00+00:00
+[2024-11-08T13:41:33.216+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.125 seconds
+[2024-11-08T13:42:03.440+0000] {processor.py:161} INFO - Started process (PID=612) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:42:03.440+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:42:03.442+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:42:03.442+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:42:03.497+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:42:03.520+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:42:03.520+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:42:03.540+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:42:03.539+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:35:00+00:00, run_after=2024-11-08 13:40:00+00:00
+[2024-11-08T13:42:03.559+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.125 seconds
+[2024-11-08T13:42:33.793+0000] {processor.py:161} INFO - Started process (PID=633) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:42:33.794+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:42:33.796+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:42:33.795+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:42:33.854+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:42:33.882+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:42:33.882+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:42:33.908+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:42:33.907+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:35:00+00:00, run_after=2024-11-08 13:40:00+00:00
+[2024-11-08T13:42:33.924+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.138 seconds
+[2024-11-08T13:43:04.150+0000] {processor.py:161} INFO - Started process (PID=655) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:43:04.152+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:43:04.155+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:43:04.154+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:43:04.230+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:43:04.257+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:43:04.257+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:43:04.286+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:43:04.285+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:35:00+00:00, run_after=2024-11-08 13:40:00+00:00
+[2024-11-08T13:43:04.308+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.165 seconds
+[2024-11-08T13:43:34.449+0000] {processor.py:161} INFO - Started process (PID=676) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:43:34.450+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:43:34.453+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:43:34.453+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:43:34.535+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:43:34.565+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:43:34.565+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:43:34.587+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:43:34.587+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:35:00+00:00, run_after=2024-11-08 13:40:00+00:00
+[2024-11-08T13:43:34.611+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.169 seconds
+[2024-11-08T13:44:04.926+0000] {processor.py:161} INFO - Started process (PID=697) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:44:04.927+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:44:04.929+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:44:04.928+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:44:04.993+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:44:05.020+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:44:05.019+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:44:05.040+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:44:05.040+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:35:00+00:00, run_after=2024-11-08 13:40:00+00:00
+[2024-11-08T13:44:05.059+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.140 seconds
+[2024-11-08T13:44:35.258+0000] {processor.py:161} INFO - Started process (PID=713) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:44:35.259+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:44:35.260+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:44:35.260+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:44:35.315+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:44:35.338+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:44:35.337+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:44:35.358+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:44:35.358+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:35:00+00:00, run_after=2024-11-08 13:40:00+00:00
+[2024-11-08T13:44:35.382+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.129 seconds
+[2024-11-08T13:45:05.580+0000] {processor.py:161} INFO - Started process (PID=729) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:45:05.581+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:45:05.582+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:45:05.582+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:45:05.742+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:45:05.770+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:45:05.770+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:45:05.795+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:45:05.795+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:40:00+00:00, run_after=2024-11-08 13:45:00+00:00
+[2024-11-08T13:45:05.820+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.246 seconds
+[2024-11-08T13:45:36.013+0000] {processor.py:161} INFO - Started process (PID=745) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:45:36.014+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:45:36.015+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:45:36.014+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:45:36.074+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:45:36.096+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:45:36.096+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:45:36.117+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:45:36.117+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:40:00+00:00, run_after=2024-11-08 13:45:00+00:00
+[2024-11-08T13:45:36.133+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.125 seconds
+[2024-11-08T13:46:06.322+0000] {processor.py:161} INFO - Started process (PID=761) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:46:06.323+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:46:06.324+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:46:06.323+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:46:06.379+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:46:06.405+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:46:06.404+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:46:06.429+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:46:06.429+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:40:00+00:00, run_after=2024-11-08 13:45:00+00:00
+[2024-11-08T13:46:06.445+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.130 seconds
+[2024-11-08T13:46:36.677+0000] {processor.py:161} INFO - Started process (PID=777) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:46:36.677+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:46:36.678+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:46:36.678+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:46:36.734+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:46:36.757+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:46:36.757+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:46:36.776+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:46:36.776+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:40:00+00:00, run_after=2024-11-08 13:45:00+00:00
+[2024-11-08T13:46:36.793+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.121 seconds
+[2024-11-08T13:47:06.992+0000] {processor.py:161} INFO - Started process (PID=793) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:47:06.993+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:47:06.994+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:47:06.994+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:47:07.065+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:47:07.095+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:47:07.095+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:47:07.117+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:47:07.117+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:40:00+00:00, run_after=2024-11-08 13:45:00+00:00
+[2024-11-08T13:47:07.152+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.165 seconds
+[2024-11-08T13:47:37.342+0000] {processor.py:161} INFO - Started process (PID=809) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:47:37.343+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:47:37.344+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:47:37.344+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:47:37.401+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:47:37.423+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:47:37.423+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:47:37.442+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:47:37.442+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:40:00+00:00, run_after=2024-11-08 13:45:00+00:00
+[2024-11-08T13:47:37.462+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.124 seconds
+[2024-11-08T13:48:07.642+0000] {processor.py:161} INFO - Started process (PID=825) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:48:07.643+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:48:07.644+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:48:07.644+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:48:07.702+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:48:07.725+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:48:07.724+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:48:07.746+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:48:07.745+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:40:00+00:00, run_after=2024-11-08 13:45:00+00:00
+[2024-11-08T13:48:07.774+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.137 seconds
+[2024-11-08T13:48:37.973+0000] {processor.py:161} INFO - Started process (PID=841) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:48:37.974+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:48:37.974+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:48:37.974+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:48:38.029+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:48:38.052+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:48:38.051+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:48:38.074+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:48:38.074+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:40:00+00:00, run_after=2024-11-08 13:45:00+00:00
+[2024-11-08T13:48:38.093+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.125 seconds
+[2024-11-08T13:49:08.296+0000] {processor.py:161} INFO - Started process (PID=858) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:49:08.303+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:49:08.305+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:49:08.304+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:49:08.395+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:49:08.431+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:49:08.430+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:49:08.465+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:49:08.465+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:40:00+00:00, run_after=2024-11-08 13:45:00+00:00
+[2024-11-08T13:49:08.488+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.200 seconds
+[2024-11-08T13:49:38.676+0000] {processor.py:161} INFO - Started process (PID=874) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:49:38.677+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:49:38.678+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:49:38.677+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:49:38.736+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:49:38.759+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:49:38.759+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:49:38.779+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:49:38.779+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:40:00+00:00, run_after=2024-11-08 13:45:00+00:00
+[2024-11-08T13:49:38.799+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.128 seconds
+[2024-11-08T13:50:09.005+0000] {processor.py:161} INFO - Started process (PID=890) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:50:09.006+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:50:09.007+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:50:09.007+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:50:09.065+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:50:09.088+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:50:09.088+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:50:09.107+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:50:09.107+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:45:00+00:00, run_after=2024-11-08 13:50:00+00:00
+[2024-11-08T13:50:09.124+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.125 seconds
+[2024-11-08T13:50:39.320+0000] {processor.py:161} INFO - Started process (PID=906) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:50:39.321+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:50:39.322+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:50:39.321+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:50:39.389+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:50:39.418+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:50:39.417+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:50:39.438+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:50:39.438+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:45:00+00:00, run_after=2024-11-08 13:50:00+00:00
+[2024-11-08T13:50:39.513+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.199 seconds
+[2024-11-08T13:51:09.715+0000] {processor.py:161} INFO - Started process (PID=922) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:51:09.716+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:51:09.717+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:51:09.716+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:51:09.780+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:51:09.805+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:51:09.805+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:51:09.827+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:51:09.827+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:45:00+00:00, run_after=2024-11-08 13:50:00+00:00
+[2024-11-08T13:51:09.845+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.135 seconds
+[2024-11-08T13:51:40.093+0000] {processor.py:161} INFO - Started process (PID=938) to work on /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:51:40.094+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/sensor_airflow.py for tasks to queue
+[2024-11-08T13:51:40.096+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:51:40.095+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:51:40.188+0000] {processor.py:840} INFO - DAG(s) 'sensor_data' retrieved from /opt/airflow/dags/sensor_airflow.py
+[2024-11-08T13:51:40.216+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:51:40.215+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-08T13:51:40.242+0000] {logging_mixin.py:188} INFO - [2024-11-08T13:51:40.242+0000] {dag.py:3947} INFO - Setting next_dagrun for sensor_data to 2024-11-08 13:45:00+00:00, run_after=2024-11-08 13:50:00+00:00
+[2024-11-08T13:51:40.262+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/sensor_airflow.py took 0.177 seconds
