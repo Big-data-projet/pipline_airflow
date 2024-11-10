@@ -134,17 +134,18 @@ def get_publications():
     result = []
     for publication in publications:
         result.append({
-            'PublicationID': publication.PublicationID,
-            'Title': publication.Title,
-            'DOI': publication.DOI,
-            'PublicationDate': publication.PublicationDate,
-            'Link': publication.Link,
-            'Abstract': publication.Abstract,
-            'JournalID': publication.JournalID,
-            'Quartils': publication.Quartils
+            'PublicationID': publication.PublicationID,  # ID de la publication
+            'Title': publication.Title,                  # Titre de la publication
+            'DOI': publication.DOI,                      # DOI de la publication
+            'PublicationDate': publication.PublicationDate,  # Date de publication
+            'Link': publication.Link,                    # Lien vers la publication
+            'Abstract': publication.Abstract,            # Résumé de la publication
+            'JournalID': publication.JournalID,          # ID du journal associé
+            'Quartils': publication.Quartils             # Quartile du journal
         })
 
     return {"publications": result}, 200
+
 
 
 @app.route('/publications_by_journal', methods=['GET'])
@@ -179,6 +180,43 @@ def journals_by_quartil_and_annee():
 
     return jsonify(data)
 
+@app.route('/journal/<int:journal_id>', methods=['GET'])
+def get_journal_by_id(journal_id):
+    # Récupérer le journal en fonction de son ID
+    journal = db.session.query(Journal).filter(Journal.JournalID == journal_id).first()
+
+    if journal:
+        # Retourner les informations du journal au format JSON
+        return jsonify({
+            'JournalID': journal.JournalID,
+            'JournalMain': journal.JournalMain,
+            'ISSN': journal.ISSN,
+            'Quartils': journal.Quartils
+        })
+    else:
+        # Si le journal n'est pas trouvé, renvoyer une erreur 404
+        return jsonify({'message': 'Journal not found'}), 404
+
+@app.route('/publication/<int:publication_id>', methods=['GET'])
+def get_publication_by_id(publication_id):
+    # Récupérer la publication en fonction de son ID
+    publication = db.session.query(Publication).filter(Publication.PublicationID == publication_id).first()
+
+    if publication:
+        # Retourner les informations de la publication au format JSON
+        return jsonify({
+            'PublicationID': publication.PublicationID,
+            'Title': publication.Title,
+            'DOI': publication.DOI,
+            'PublicationDate': publication.PublicationDate,
+            'Link': publication.Link,
+            'Abstract': publication.Abstract,
+            'JournalID': publication.JournalID,
+            'Quartils': publication.Quartils
+        })
+    else:
+        # Si la publication n'est pas trouvée, renvoyer une erreur 404
+        return jsonify({'message': 'Publication not found'}), 404
 
 
 
