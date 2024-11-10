@@ -4,5 +4,6 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/docker-hive" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mysql-docker-compose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/postgres" vcs="Git" />
   </component>
 </project>
