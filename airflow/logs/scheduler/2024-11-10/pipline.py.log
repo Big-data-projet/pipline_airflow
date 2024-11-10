@@ -2071,3 +2071,31 @@ IndentationError: expected an indented block after function definition on line 1
 [2024-11-10T14:11:25.473+0000] {logging_mixin.py:188} INFO - [2024-11-10T14:11:25.472+0000] {dag.py:3089} INFO - Sync 1 DAGs
 [2024-11-10T14:11:25.493+0000] {logging_mixin.py:188} INFO - [2024-11-10T14:11:25.493+0000] {dag.py:3947} INFO - Setting next_dagrun for pipeline to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
 [2024-11-10T14:11:25.514+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipline.py took 0.107 seconds
+[2024-11-10T14:11:55.814+0000] {processor.py:161} INFO - Started process (PID=855) to work on /opt/airflow/dags/pipline.py
+[2024-11-10T14:11:55.815+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pipline.py for tasks to queue
+[2024-11-10T14:11:55.817+0000] {logging_mixin.py:188} INFO - [2024-11-10T14:11:55.817+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pipline.py
+[2024-11-10T14:11:55.840+0000] {processor.py:840} INFO - DAG(s) 'pipeline' retrieved from /opt/airflow/dags/pipline.py
+[2024-11-10T14:11:55.865+0000] {logging_mixin.py:188} INFO - [2024-11-10T14:11:55.865+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-10T14:11:55.884+0000] {logging_mixin.py:188} INFO - [2024-11-10T14:11:55.884+0000] {dag.py:3947} INFO - Setting next_dagrun for pipeline to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-10T14:11:55.907+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipline.py took 0.097 seconds
+[2024-11-10T14:12:26.209+0000] {processor.py:161} INFO - Started process (PID=876) to work on /opt/airflow/dags/pipline.py
+[2024-11-10T14:12:26.211+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pipline.py for tasks to queue
+[2024-11-10T14:12:26.213+0000] {logging_mixin.py:188} INFO - [2024-11-10T14:12:26.212+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pipline.py
+[2024-11-10T14:12:26.236+0000] {processor.py:840} INFO - DAG(s) 'pipeline' retrieved from /opt/airflow/dags/pipline.py
+[2024-11-10T14:12:26.265+0000] {logging_mixin.py:188} INFO - [2024-11-10T14:12:26.264+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-10T14:12:26.286+0000] {logging_mixin.py:188} INFO - [2024-11-10T14:12:26.286+0000] {dag.py:3947} INFO - Setting next_dagrun for pipeline to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-10T14:12:26.305+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipline.py took 0.101 seconds
+[2024-11-10T14:12:56.721+0000] {processor.py:161} INFO - Started process (PID=897) to work on /opt/airflow/dags/pipline.py
+[2024-11-10T14:12:56.722+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pipline.py for tasks to queue
+[2024-11-10T14:12:56.724+0000] {logging_mixin.py:188} INFO - [2024-11-10T14:12:56.724+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pipline.py
+[2024-11-10T14:12:56.749+0000] {processor.py:840} INFO - DAG(s) 'pipeline' retrieved from /opt/airflow/dags/pipline.py
+[2024-11-10T14:12:56.782+0000] {logging_mixin.py:188} INFO - [2024-11-10T14:12:56.782+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-10T14:12:56.811+0000] {logging_mixin.py:188} INFO - [2024-11-10T14:12:56.811+0000] {dag.py:3947} INFO - Setting next_dagrun for pipeline to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-10T14:12:56.837+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipline.py took 0.122 seconds
+[2024-11-10T14:13:27.094+0000] {processor.py:161} INFO - Started process (PID=918) to work on /opt/airflow/dags/pipline.py
+[2024-11-10T14:13:27.095+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/pipline.py for tasks to queue
+[2024-11-10T14:13:27.097+0000] {logging_mixin.py:188} INFO - [2024-11-10T14:13:27.097+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/pipline.py
+[2024-11-10T14:13:27.127+0000] {processor.py:840} INFO - DAG(s) 'pipeline' retrieved from /opt/airflow/dags/pipline.py
+[2024-11-10T14:13:27.167+0000] {logging_mixin.py:188} INFO - [2024-11-10T14:13:27.166+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-11-10T14:13:27.199+0000] {logging_mixin.py:188} INFO - [2024-11-10T14:13:27.198+0000] {dag.py:3947} INFO - Setting next_dagrun for pipeline to 2024-11-10 00:00:00+00:00, run_after=2024-11-11 00:00:00+00:00
+[2024-11-10T14:13:27.228+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/pipline.py took 0.139 seconds

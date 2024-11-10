@@ -21193,3 +21193,43 @@ File Path                                     PID    Runtime      # DAGs    # Er
 /opt/airflow/dags/sensor_airflow.py                                    1           0  0.15s           2024-11-10T14:10:56
 /opt/airflow/dags/pipline.py                                           1           0  0.13s           2024-11-10T14:10:55
 ================================================================================
+[2024-11-10T14:11:48.734+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sensor_airflow_consumer.py                           1           0  0.32s           2024-11-10T14:11:30
+/opt/airflow/dags/sensor_airflow.py                                    1           0  0.17s           2024-11-10T14:11:26
+/opt/airflow/dags/pipline.py                                           1           0  0.13s           2024-11-10T14:11:25
+================================================================================
+[2024-11-10T14:12:19.128+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sensor_airflow_consumer.py                           1           0  0.31s           2024-11-10T14:12:01
+/opt/airflow/dags/sensor_airflow.py                                    1           0  0.17s           2024-11-10T14:11:56
+/opt/airflow/dags/pipline.py                                           1           0  0.12s           2024-11-10T14:11:55
+================================================================================
+[2024-11-10T14:12:49.632+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sensor_airflow_consumer.py                           1           0  0.42s           2024-11-10T14:12:31
+/opt/airflow/dags/sensor_airflow.py                                    1           0  0.26s           2024-11-10T14:12:27
+/opt/airflow/dags/pipline.py                                           1           0  0.13s           2024-11-10T14:12:26
+================================================================================
+[2024-11-10T14:13:20.017+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/sensor_airflow_consumer.py                           1           0  0.34s           2024-11-10T14:13:02
+/opt/airflow/dags/sensor_airflow.py                                    1           0  0.17s           2024-11-10T14:12:57
+/opt/airflow/dags/pipline.py                                           1           0  0.16s           2024-11-10T14:12:56
+================================================================================
