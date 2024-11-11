@@ -121,8 +121,37 @@ def pipeline():
 
     @task()
     def insert_data_into_data_warehouse(data):
+
+        print(data)
         mysql_hook = MySqlHook(mysql_conn_id="mysql_default")
 
+        def verify_and_convert_structure(t):
+            result = []
+
+            for item in t:
+                # Si la structure correspond à la première, nous n'avons rien à faire.
+                if isinstance(item, dict) and "Title" in item and "DOI" in item and "Authors" in item:
+                    # Ajouter tel quel
+                    result.append(item)
+                else:
+                    # Sinon, nous convertissons la structure vers la première structure attendue
+                    article = {
+                        "Title": item[1],
+                        "DOI": item[2],
+                        "Authors": item[3].split(', '),  # Séparer les auteurs en liste
+                        "Publication Date": item[4].replace('Date of Publication: ', ''),
+                        "ISSN": item[5],
+                        "Link": item[6],
+                        "Quartils": item[7] if isinstance(item[7], str) else "Journal pas indexé Scopus",
+                        # Si Quartils est une chaîne, on le garde, sinon on assigne une valeur par défaut
+                        "journal_main": f"Published in: {item[1]}",
+                        "abstract": item[8] if len(item) > 8 else None  # Si l'index 8 existe, on l'assigne, sinon None
+                    }
+                    result.append(article)
+
+            return result
+        data = verify_and_convert_structure(data)
+        print(data)
 
         def add_authors(authors):
             try:
@@ -311,12 +340,16 @@ def pipeline():
     postgres_data = fetch_data_from_postgres()
     json_data = fetch_data_from_json()
     csv_data = fetch_data_from_csv()
-    insert_data_task  = insert_data_into_data_warehouse(mongo_data)
+
+    insert_data_task_from_mongo  = insert_data_into_data_warehouse(mongo_data)
+    insert_data_task_from_postgres  = insert_data_into_data_warehouse(postgres_data)
     # Set the order of execution
 
     
-    mongo_data  >> insert_data_task  >> postgres_data >> json_data >> csv_data
-    
+    mongo_data  >> insert_data_task_from_mongo  >> postgres_data >> insert_data_task_from_postgres  >> json_data >> csv_data
+     
+     
+
 
 # Set the DAG to run
 pipeline()

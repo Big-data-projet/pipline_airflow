@@ -2,8 +2,10 @@ from flask import Flask, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from pymysql import OperationalError
 
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 # Configuration de la chaîne de connexion pour SQLAlchemy
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+mysqldb://mohammed:mohammed@localhost:3366/PublicationsDataWarehouse'
@@ -159,6 +161,19 @@ def publications_by_journal():
 
     return jsonify(data)
 
+@app.route('/publication_dates', methods=['GET'])
+def get_publication_dates():
+    # Récupérer uniquement la PublicationDate de toutes les publications
+    publication_dates = db.session.query(Publication.PublicationDate).all()
+
+    # Si aucune date de publication n'est trouvée
+    if not publication_dates:
+        return jsonify({'message': 'No publication dates found'}), 404
+
+    # Formater les résultats dans un tableau de dates
+    result = [date[0] for date in publication_dates]  # date[0] car chaque élément est un tuple
+
+    return jsonify({'publication_dates': result}), 200
 
 @app.route('/journals_by_quartil_and_annee', methods=['GET'])
 def journals_by_quartil_and_annee():
@@ -218,6 +233,52 @@ def get_publication_by_id(publication_id):
         # Si la publication n'est pas trouvée, renvoyer une erreur 404
         return jsonify({'message': 'Publication not found'}), 404
 
+@app.route('/journal/<int:journal_id>/publications', methods=['GET'])
+def get_publications_by_journal(journal_id):
+    # Récupérer toutes les publications associées au journal par son ID
+    publications = Publication.query.filter(Publication.JournalID == journal_id).all()
+
+    # Si aucune publication n'est trouvée pour ce journal
+    if not publications:
+        return jsonify({'message': 'No publications found for this journal'}), 404
+
+    # Formater les résultats dans un dictionnaire
+    result = []
+    for publication in publications:
+        result.append({
+            'PublicationID': publication.PublicationID,
+            'Title': publication.Title,
+            'DOI': publication.DOI,
+            'PublicationDate': publication.PublicationDate,
+            'Link': publication.Link,
+            'Abstract': publication.Abstract,
+            'JournalID': publication.JournalID,
+            'Quartils': publication.Quartils
+        })
+
+    return jsonify({'publications': result}), 200
+
+
+@app.route('/quartils_by_journal/<int:journal_id>', methods=['GET'])
+def get_quartils_by_journal(journal_id):
+    # Récupérer les quartils associés au journal par son ID
+    quartils = Quartil.query.filter(Quartil.id_journal == journal_id).all()
+
+    # Si aucun quartil n'est trouvé pour ce journal
+    if not quartils:
+        return jsonify({'message': 'No quartils found for this journal'}), 404
+
+    # Formater les résultats dans un tableau de données
+    result = []
+    for quartil in quartils:
+        result.append({
+            'QuartilID': quartil.QuartilID,
+            'annee': quartil.annee,
+            'quartil': quartil.quartil,
+            'id_journal': quartil.id_journal
+        })
+
+    return jsonify({'quartils': result}), 200
 
 
 if __name__ == '__main__':
